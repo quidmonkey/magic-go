@@ -1,0 +1,6 @@
+{
+  "id": "Hal9000",
+  "firstName": "Foo",
+  "lastName": "Bar",
+  "services": ["Go"]
+}
